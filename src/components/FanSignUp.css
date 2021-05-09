@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.fan-form {
+    width: 456px;
+    height: 585px;
+    margin: 0 auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding-top: 40px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.fan-form h1 {
+    color: white;
+    margin-bottom: 2.4rem;
+}
+
+.fan-form input {
+    max-width: 50rem;
+    width: 342px;
+    margin: 5px 0;
+    height: 60px;
+    padding: 29px 22px 12px;
+    border-radius: 5px;
+    background: white;
+    border-radius: 3px;
+    color: black;
+    overflow: hidden;
+    padding: 0px !important;
+}
+
+
+.txt-center {
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+}

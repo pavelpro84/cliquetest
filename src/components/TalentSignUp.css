@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container-t {
+    position: relative;
+    max-width: 50rem;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 2.5rem 3.125rem;
+    margin: 0px auto;
+}
+
+.container-t input{
+    width: 336px;
+    margin: 7px;
+    height: 60px;
+    border-radius: 5px;
+    background: white !important;
+    border-radius: 3px;
+    color: black;
+    overflow: hidden;
+    padding: 0 !important;
+}
+
+
+

@@ -1,0 +1,93 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 456px;
+    height: 585px;
+    margin: 0 auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding-top: 40px;
+    text-align: center;
+}
+
+.container h1 {
+    padding-bottom: 20px;
+}
+
+.container input {
+    width: 327px;
+    margin: 5px 0;
+    height: 60px;
+    /* padding: 29px 22px 12px; */
+    border-radius: 5px;
+    background: white;
+    border-radius: 3px;
+    color: black;
+    overflow: hidden;
+    padding: 0px;
+    padding-left: 15px;
+}
+
+.toright {
+    text-align: end;
+    padding-right: 60px;
+}
+
+.txt-center {
+    text-align: center;
+}
+
+.bt1 {
+    height: 45px;
+    width: 342px;
+    color: white;
+    background: rgb(47, 154, 76);
+    margin: 20px 0;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.bt2 {
+    height: 50px;
+    width: 400px;
+    color: white;
+    background: #4267B2;
+    border-radius: 5px;
+    margin: 20px 0;
+    cursor: pointer;
+}
+
+.center:hover {
+    box-shadow: inset 0px 0px 0 200px rgb(47, 130, 76);
+    color: #FFF;
+}
+
+.whiteText {
+    color: white;
+}
+
+.toLeft {
+    text-align: left;
+    padding-left: 60px;
+}
+
+.input {
+    padding: 0 !important;
+}
+
+.btnFb {
+    width: 342px;
+    height: 45px;
+    margin: 20px;
+    background: rgb(66, 103, 178);
+    border-color: rgb(66, 103, 178);
+    color: white;
+    border-radius: 5px;
+}
+
+.MuiFormLabel-root {
+    padding: 7px !important;
+}
